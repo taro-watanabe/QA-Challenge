@@ -29,6 +29,7 @@
 ## Information
 
 I failed to integrate the Python file into the docker system, as port opening on `8501` failed due to (probably) a simple error. Thus the docker environment has not been modified at all.  Simply `cd` to the additional python file `stream.py` and `streamlit run stream.py` should launch the local port at `8501`.
+Also due to the lack of knowledge on docker/SQL, I was unable to complete the bonus section. Since `streamlit` is ran through a local port, the storage must be doable.
 
 
 
